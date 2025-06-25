@@ -1,12 +1,10 @@
+> Warning: this project is deprecated. The original author had no use for it anymore. Feel free to fork or use the code as is.
+
 [![Build Status](https://travis-ci.org/kvz/json2hcl.svg?branch=master)](https://travis-ci.org/kvz/json2hcl)
 
 # json2hcl (and hcl2json)
 
 Convert JSON to HCL and HCL to JSON via STDIN / STDOUT.
-
-## Warning
-
-We don't use json2hcl anymore ourselves, so we can't invest time into it. However, we're still welcoming PRs.
 
 ## Install
 
