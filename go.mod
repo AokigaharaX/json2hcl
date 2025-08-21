@@ -1,5 +1,5 @@
-module github.com/kvz/json2hcl
+module github.com/AokigaharaX/json2hcl
 
-go 1.22.5
+go 1.25.0
 
-require github.com/hashicorp/hcl v1.0.0
+require github.com/hashicorp/hcl v2.24.0
